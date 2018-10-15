@@ -1,11 +1,11 @@
 # coding: utf-8
 
 Gem::Specification.new do |spec|
-  spec.name                    = "jekyll-theme-so-simple"
+  spec.name                    = "jekyll-theme-rbesolutions"
   spec.version                 = "3.1.1"
-  spec.authors                 = ["Michael Rose"]
+  spec.authors                 = ["Juuso Vilmunen"]
 
-  spec.summary                 = %q{A simple Jekyll theme for words and pictures.}
+  spec.summary                 = %q{A copy of so-simple theme: A simple Jekyll theme for words and pictures.}
   spec.homepage                = "https://github.com/mmistakes/minimal-mistakes"
   spec.license                 = "MIT"
 
